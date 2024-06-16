@@ -20,10 +20,16 @@ Intuitive and responsive WinForms interface for seamless task management experie
 
 ## Installation
 
-##### Make sure you have the .NET SDK installed on your machine.
-##### Clone this repository.
-##### Open the solution in Visual Studio.
-##### Build and run the project.
+
+```python
+# Make sure you have the .NET SDK installed on your machine. You can download it from the [official .NET page](https://dotnet.microsoft.com/download).
+
+# Clone this repository or download it to your local machine
+
+# Run the application
+dotnet run
+
+```
 
 
 ## Demo
